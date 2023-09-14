@@ -1,0 +1,13 @@
+print("Fravær")
+Ben = float(input("Benjamin"))
+Cai = float(input("Caiden"))
+Dam = float(input("Damien"))
+Eiv = float(input("Eivind"))
+Mag = float(input("Magnus"))
+Mik= float(input("Mikhal"))
+Seb = float(input("Sebastian"))
+Sta = float(input("Stas"))
+Tob = float(input("Tobias"))
+Tom = float(input("Tom"))
+
+print(f"Benjamin {Ben}, Caiden {Cai}, Damien {Dam}, Eivind {Eiv}, Magnus {Mag}, Mikhal {Mik}, Sebastian {Seb}, Stas {Sta}, Tobias {Tob}, Tom {Tom}.")
